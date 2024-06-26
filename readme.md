@@ -1,0 +1,1 @@
+# JACKPOT is a simple gambling app 
